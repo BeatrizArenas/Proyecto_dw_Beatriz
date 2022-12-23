@@ -1,0 +1,82 @@
+.container
+{ 
+    
+    width: 100%;
+   
+    
+  
+}
+.nav-home{
+    width: 20%;
+    float: left;
+    
+}
+.nav-links{
+    text-align: right;
+    
+}
+.nav-back-blue{
+    background: rgb(63,176,251);
+    background: radial-gradient(circle, rgba(63,176,251,1) 28%, rgba(71,63,251,1) 100%);
+}
+.nav-white{
+    color:white;
+}
+.img-hero-banner{ 
+    width: 100%;
+    
+        
+}
+.seccion-titulo{
+    width: 100%;
+    text-align: center;
+    font-size: 30px;
+}
+.redes-sociales{
+    width: 40%;
+    float: left;
+}
+.contacto{
+    text-align: right;
+    
+}
+.contenido{
+    width: 100%;
+    min-height: 150px;
+    font-size: 18px;
+    text-align: center;
+    padding: 50px;
+    
+   
+}
+.cajaalimentacion{
+   
+   transition: transform 2s;
+   
+}
+.cajaalimentacion:hover{
+    transform: scale(1.1,1.1);
+}
+
+
+.cajajuguetes{
+    
+    transition: transform 2s;
+
+}
+.cajajuguetes:hover{
+    transform: scale(1.1,1.1);
+}
+.cajahigiene{
+    transition: transform 2s;
+    
+}
+.cajahigiene:hover{
+    transform: scale(1.1,1.1);
+}
+.pie-pagina{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+}
