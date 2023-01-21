@@ -1,4 +1,4 @@
-.container
+/*.container
 { 
     
     width: 100%;
@@ -47,6 +47,7 @@
     text-align: center;
     padding: 50px;
     
+    
    
 }
 .cajaalimentacion{
@@ -79,4 +80,7 @@
     margin-bottom: 50px;
 
 
+}
+.cepillo{
+    text-align: center;
 }
