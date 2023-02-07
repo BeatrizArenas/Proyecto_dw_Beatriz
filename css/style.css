@@ -62,15 +62,14 @@
   margin-bottom: 50px; }
 
 .text-j {
-  text-align: justify;
-  padding-top: 50px; }
+  text-align: justify; }
 
 h1 {
   font-size: 30px; }
 
 .descripcion {
   text-align: center;
-  font-size: 18px; }
+  font-size: 16px; }
 
 main h3 {
   width: 100%;
@@ -100,6 +99,31 @@ main .row {
 .juguetes {
   padding: 30px; }
 
-.con-redes {
-  margin-bottom: 35px;
-  margin-top: 22px; }
+.telefono {
+  width: 100%; }
+
+.contacto {
+  padding-top: 50px; }
+
+.contacto button {
+  color: white;
+  font-weight: bold;
+  background-color: #008ad3;
+  border: transparent; }
+
+.contacto button i {
+  color: white;
+  font-size: 1.3rem; }
+
+.telefono {
+  width: 100%; }
+
+.contacto button {
+  color: white;
+  font-weight: bold;
+  background-color: #008ad3;
+  border: transparent; }
+
+.contacto button i {
+  color: white;
+  font-size: 1.3rem; }
